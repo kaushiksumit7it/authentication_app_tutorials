@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Authentication App Tutorial</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account_register">Already have an account? Login</string>
+    <string name="register_no_account">Don\'t have an Account? Register</string>
+    <string name="user">User</string>
+</resources>
